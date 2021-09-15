@@ -9,7 +9,7 @@
 	<title>
 	Bình luận cho My WordPress	</title>
 	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>http://anhvurain.github.io/mywordpress</link>
+	<link>https://anhvurain.github.io/mywordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
 	<lastBuildDate>Wed, 08 Sep 2021 01:09:40 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Phản hồi cho VÉN MÀN &#8220;BÍ MẬT&#8221; CỦA POKÉMON TCG: SUN &#038; MOON &#8211; FORBIDDEN LIGHT bởi Trần Anh Vũ		</title>
-		<link>http://anhvurain.github.io/mywordpress/ven-man-bi-mat-cua-pokemon-tcg-sun-moon-forbidden-light/#comment-2</link>
+		<link>https://anhvurain.github.io/mywordpress/ven-man-bi-mat-cua-pokemon-tcg-sun-moon-forbidden-light/#comment-2</link>
 
 		<dc:creator><![CDATA[Trần Anh Vũ]]></dc:creator>
 		<pubDate>Wed, 08 Sep 2021 01:09:40 +0000</pubDate>
-		<guid isPermaLink="false">http://anhvurain.github.io/mywordpress/?p=24#comment-2</guid>
+		<guid isPermaLink="false">https://anhvurain.github.io/mywordpress/?p=24#comment-2</guid>
 
 					<description><![CDATA[spammmmmm]]></description>
 			<content:encoded><![CDATA[<p>spammmmmm</p>
