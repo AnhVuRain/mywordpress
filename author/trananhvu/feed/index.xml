@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/author/trananhvu/feed/" rel="self" type="application/rss+xml" />
 	<link>https://anhvurain.github.io/mywordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Mon, 13 Sep 2021 01:23:24 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 01 Sep 2021 02:14:08 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,26 +20,6 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
-		<title>Test to Delete</title>
-		<link>https://anhvurain.github.io/mywordpress/test-to-delete/</link>
-					<comments>https://anhvurain.github.io/mywordpress/test-to-delete/#respond</comments>
-		
-		<dc:creator><![CDATA[trananhvu]]></dc:creator>
-		<pubDate>Mon, 13 Sep 2021 01:23:24 +0000</pubDate>
-				<category><![CDATA[Chưa phân loại]]></category>
-		<guid isPermaLink="false">https://anhvurain.github.io/mywordpress/?p=52</guid>
-
-					<description><![CDATA[Goodbye world!&#8230;]]></description>
-										<content:encoded><![CDATA[
-<p>Goodbye world!&#8230; </p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://anhvurain.github.io/mywordpress/test-to-delete/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
 		<title>VÉN MÀN &#8220;BÍ MẬT&#8221; CỦA POKÉMON TCG: SUN &#038; MOON &#8211; FORBIDDEN LIGHT</title>
 		<link>https://anhvurain.github.io/mywordpress/ven-man-bi-mat-cua-pokemon-tcg-sun-moon-forbidden-light/</link>
 					<comments>https://anhvurain.github.io/mywordpress/ven-man-bi-mat-cua-pokemon-tcg-sun-moon-forbidden-light/#comments</comments>
