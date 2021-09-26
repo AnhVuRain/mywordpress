@@ -5,6 +5,9 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -29,7 +32,7 @@
 				<category><![CDATA[Chưa phân loại]]></category>
 		<guid isPermaLink="false">https://anhvurain.github.io/mywordpress/?p=24</guid>
 
-					<description><![CDATA[Những người gắn bó lâu với&#160;Pokemon Trading Card&#160;có lẽ&#160;cũng không còn xa lạ gì với kiểu thẻ bài&#160;Secret Rare&#160;xuất hiện trong các bộ mở rộng. Đây là những thẻ bài đặc biệt ở nhiều khía cạnh. Chúng có số thứ tự (ở góc trái bên dưới thẻ bài) vượt quá [&#8230;]]]></description>
+					<description><![CDATA[Những người gắn bó lâu với&#160;Pokemon Trading Card&#160;có lẽ&#160;cũng không còn xa lạ gì với kiểu thẻ bài&#160;Secret Rare&#160;xuất hiện trong các bộ mở rộng. Đây là những thẻ bài đặc biệt ở nhiều khía cạnh. Chúng có số thứ tự (ở góc trái bên dưới thẻ bài) vượt quá số tổng của bộ (ví [&#8230;]]]></description>
 										<content:encoded><![CDATA[
 <figure class="wp-block-image"><img src="https://file.hstatic.net/1000231532/file/pokemon_tcg_forbidden_light_secret_rare_grande.jpg" alt="pokemon tcg Forbidden Light secret rare"/></figure>
 
@@ -101,7 +104,7 @@
 				<category><![CDATA[Chưa phân loại]]></category>
 		<guid isPermaLink="false">https://anhvurain.github.io/mywordpress/?p=20</guid>
 
-					<description><![CDATA[Nếu bạn đang mong đợi ngày chính thức có mặt của game Pokémon Sword &#38; Shield Việt Nam thì chắc hẳn đây sẽ là một tin vui cho tất cả các trainer vì nShop vừa công bố tại Fan Page: 9h sáng ngày 15/11/2019 tựa game Pokémon Sword &#38; Shield [&#8230;]]]></description>
+					<description><![CDATA[Nếu bạn đang mong đợi ngày chính thức có mặt của game Pokémon Sword &#38; Shield Việt Nam thì chắc hẳn đây sẽ là một tin vui cho tất cả các trainer vì nShop vừa công bố tại Fan Page: 9h sáng ngày 15/11/2019 tựa game Pokémon Sword &#38; Shield sẽ có mặt tại cửa [&#8230;]]]></description>
 										<content:encoded><![CDATA[
 <p>Nếu bạn đang mong đợi ngày chính thức có mặt của game Pokémon Sword &amp; Shield Việt Nam thì chắc hẳn đây sẽ là một tin vui cho tất cả các trainer vì nShop vừa công bố tại Fan Page:</p>
 

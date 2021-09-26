@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Pikachu &#8211; My WordPress</title>
+	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/pikachu/feed/" rel="self" type="application/rss+xml" />
+	<link>https://anhvurain.github.io/mywordpress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Sun, 26 Sep 2021 02:36:43 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Pikachu Alolan Vulpix Cosplay Costume</title>
+		<link>https://anhvurain.github.io/mywordpress/sản%20phẩm/pikachu-alolan-vulpix-cosplay-costume/</link>
+					<comments>https://anhvurain.github.io/mywordpress/sản%20phẩm/pikachu-alolan-vulpix-cosplay-costume/#respond</comments>
+		
+		<dc:creator><![CDATA[trananhvu]]></dc:creator>
+		<pubDate>Sun, 26 Sep 2021 02:28:43 +0000</pubDate>
+				<guid isPermaLink="false">https://anhvurain.github.io/mywordpress/?post_type=product&#038;p=128</guid>
+
+					<description><![CDATA[Pikachu Alolan Vulpix Cosplay Costume Nhà sản xuất : Pokemon Center]]></description>
+										<content:encoded><![CDATA[<p>Pikachu Alolan Vulpix Cosplay Costume</p>
+<p>Nhà sản xuất : Pokemon Center</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://anhvurain.github.io/mywordpress/sản%20phẩm/pikachu-alolan-vulpix-cosplay-costume/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Pikachu Plush</title>
+		<link>https://anhvurain.github.io/mywordpress/sản%20phẩm/pikachu-plush/</link>
+					<comments>https://anhvurain.github.io/mywordpress/sản%20phẩm/pikachu-plush/#respond</comments>
+		
+		<dc:creator><![CDATA[trananhvu]]></dc:creator>
+		<pubDate>Sat, 25 Sep 2021 04:59:36 +0000</pubDate>
+				<guid isPermaLink="false">https://anhvurain.github.io/mywordpress/?post_type=product&#038;p=112</guid>
+
+					<description><![CDATA[Pikachu Basic Plush Hãng sản xuất : Pokemon Center]]></description>
+										<content:encoded><![CDATA[<p>Pikachu Basic Plush</p>
+<p>Hãng sản xuất : Pokemon Center</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://anhvurain.github.io/mywordpress/sản%20phẩm/pikachu-plush/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Pokemon_Games &#8211; My WordPress</title>
+	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/pokemon/pokemon_games/feed/" rel="self" type="application/rss+xml" />
+	<link>https://anhvurain.github.io/mywordpress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Sun, 26 Sep 2021 02:43:06 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Pokemon Master Ex</title>
+		<link>https://anhvurain.github.io/mywordpress/sản%20phẩm/pokemon-master-ex/</link>
+					<comments>https://anhvurain.github.io/mywordpress/sản%20phẩm/pokemon-master-ex/#respond</comments>
+		
+		<dc:creator><![CDATA[trananhvu]]></dc:creator>
+		<pubDate>Sun, 26 Sep 2021 02:43:05 +0000</pubDate>
+				<guid isPermaLink="false">https://anhvurain.github.io/mywordpress/?post_type=product&#038;p=133</guid>
+
+					<description><![CDATA[Phiên bản được tải miễn phí trên các ứng dụng điện thoại.]]></description>
+										<content:encoded><![CDATA[<p>Pokemon Master Ex</p>
+<p>Nhà sản xuất : Nintendo</p>
+<p>Loại game : Mobile</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://anhvurain.github.io/mywordpress/sản%20phẩm/pokemon-master-ex/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Combo Pokemon Sword &#038; Shield Package</title>
+		<link>https://anhvurain.github.io/mywordpress/sản%20phẩm/combo-pokemon-sword-shield-package/</link>
+					<comments>https://anhvurain.github.io/mywordpress/sản%20phẩm/combo-pokemon-sword-shield-package/#respond</comments>
+		
+		<dc:creator><![CDATA[trananhvu]]></dc:creator>
+		<pubDate>Sat, 25 Sep 2021 04:51:42 +0000</pubDate>
+				<guid isPermaLink="false">https://anhvurain.github.io/mywordpress/?post_type=product&#038;p=111</guid>
+
+					<description><![CDATA[Combo Pokemon Sword &#38; Shield Package Nhà phát hành : Nintendo Loại game : Nintendo Switch Bao gồm : Pokemon Sword &#38; Pokemon Shield]]></description>
+										<content:encoded><![CDATA[<p><strong>Combo Pokemon Sword &amp; Shield Package</strong></p>
+<p>Nhà phát hành : Nintendo</p>
+<p>Loại game : Nintendo Switch</p>
+<p>Bao gồm : Pokemon Sword &amp; Pokemon Shield</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://anhvurain.github.io/mywordpress/sản%20phẩm/combo-pokemon-sword-shield-package/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Pokemon Shield</title>
+		<link>https://anhvurain.github.io/mywordpress/sản%20phẩm/pokemon-shield/</link>
+					<comments>https://anhvurain.github.io/mywordpress/sản%20phẩm/pokemon-shield/#respond</comments>
+		
+		<dc:creator><![CDATA[trananhvu]]></dc:creator>
+		<pubDate>Sat, 25 Sep 2021 04:35:49 +0000</pubDate>
+				<guid isPermaLink="false">https://anhvurain.github.io/mywordpress/?post_type=product&#038;p=107</guid>
+
+					<description><![CDATA[Đồng giá : thuộc dòng game Pokemon Sword &#38; Shield]]></description>
+										<content:encoded><![CDATA[<p>Pokemon Shield</p>
+<p>Nhà phát hành : Nintendo</p>
+<p>Loại game : Nintendo Switch</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://anhvurain.github.io/mywordpress/sản%20phẩm/pokemon-shield/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Pokemon Sword</title>
+		<link>https://anhvurain.github.io/mywordpress/sản%20phẩm/pokemon-sword/</link>
+					<comments>https://anhvurain.github.io/mywordpress/sản%20phẩm/pokemon-sword/#respond</comments>
+		
+		<dc:creator><![CDATA[trananhvu]]></dc:creator>
+		<pubDate>Sat, 25 Sep 2021 04:33:29 +0000</pubDate>
+				<guid isPermaLink="false">https://anhvurain.github.io/mywordpress/?post_type=product&#038;p=105</guid>
+
+					<description><![CDATA[Đồng giá: Thuộc dòng Pokemon Sword &#38; Shield]]></description>
+										<content:encoded><![CDATA[<p><strong>Pokemon Sword</strong></p>
+<p>Nhà phát hành : Nintendo</p>
+<p>Loại game : Nintendo Switch</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://anhvurain.github.io/mywordpress/sản%20phẩm/pokemon-sword/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Pokemon SUPER Mystery Dungeon</title>
+		<link>https://anhvurain.github.io/mywordpress/sản%20phẩm/pokemon-super-mystery-dungeon/</link>
+					<comments>https://anhvurain.github.io/mywordpress/sản%20phẩm/pokemon-super-mystery-dungeon/#respond</comments>
+		
+		<dc:creator><![CDATA[trananhvu]]></dc:creator>
+		<pubDate>Sat, 25 Sep 2021 04:06:23 +0000</pubDate>
+				<guid isPermaLink="false">https://anhvurain.github.io/mywordpress/?post_type=product&#038;p=103</guid>
+
+					<description><![CDATA[Pokemon SUPER Mystery Dungeon Nhà phát hành : Nintendo Loại game : Nintendo 3DS]]></description>
+										<content:encoded><![CDATA[<p><strong>Pokemon SUPER Mystery Dungeon</strong></p>
+<p>Nhà phát hành : Nintendo</p>
+<p>Loại game : Nintendo 3DS</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://anhvurain.github.io/mywordpress/sản%20phẩm/pokemon-super-mystery-dungeon/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Pokemon Platinum</title>
+		<link>https://anhvurain.github.io/mywordpress/sản%20phẩm/pokemon-platinum/</link>
+					<comments>https://anhvurain.github.io/mywordpress/sản%20phẩm/pokemon-platinum/#respond</comments>
+		
+		<dc:creator><![CDATA[trananhvu]]></dc:creator>
+		<pubDate>Sat, 25 Sep 2021 04:02:21 +0000</pubDate>
+				<guid isPermaLink="false">https://anhvurain.github.io/mywordpress/?post_type=product&#038;p=102</guid>
+
+					<description><![CDATA[Pokemon Platinum Version : Japan Nhà phát hành : Nintendo Loại game : Nintendo DS]]></description>
+										<content:encoded><![CDATA[<p><strong>Pokemon Platinum</strong></p>
+<p>Version : Japan</p>
+<p>Nhà phát hành : Nintendo</p>
+<p>Loại game : Nintendo DS</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://anhvurain.github.io/mywordpress/sản%20phẩm/pokemon-platinum/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Pokemon White 2</title>
+		<link>https://anhvurain.github.io/mywordpress/sản%20phẩm/pokemon-white-2/</link>
+					<comments>https://anhvurain.github.io/mywordpress/sản%20phẩm/pokemon-white-2/#respond</comments>
+		
+		<dc:creator><![CDATA[trananhvu]]></dc:creator>
+		<pubDate>Sat, 25 Sep 2021 03:44:23 +0000</pubDate>
+				<guid isPermaLink="false">https://anhvurain.github.io/mywordpress/?post_type=product&#038;p=99</guid>
+
+					<description><![CDATA[Là sản phẩm của dòng game Pokemon Black &#38; White 2 được phát triển thêm]]></description>
+										<content:encoded><![CDATA[<p><strong>Pokemon White 2</strong></p>
+<p>Nhà phát hành : Nintendo</p>
+<p>Loại game : Nintendo DS</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://anhvurain.github.io/mywordpress/sản%20phẩm/pokemon-white-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Pokemon Black 2</title>
+		<link>https://anhvurain.github.io/mywordpress/sản%20phẩm/pokemon-black-2/</link>
+					<comments>https://anhvurain.github.io/mywordpress/sản%20phẩm/pokemon-black-2/#respond</comments>
+		
+		<dc:creator><![CDATA[trananhvu]]></dc:creator>
+		<pubDate>Sat, 25 Sep 2021 03:21:15 +0000</pubDate>
+				<guid isPermaLink="false">https://anhvurain.github.io/mywordpress/?post_type=product&#038;p=96</guid>
+
+					<description><![CDATA[Là sản phẩm của dòng game Pokemon Black &#38; White 2 được phát triển thêm]]></description>
+										<content:encoded><![CDATA[<p><strong>Pokemon Black 2</strong></p>
+<p>Version : Japan</p>
+<p>Nhà phát hành : Nintendo</p>
+<p>Loại game : Nintendo DS</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://anhvurain.github.io/mywordpress/sản%20phẩm/pokemon-black-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Pokemon White</title>
+		<link>https://anhvurain.github.io/mywordpress/sản%20phẩm/pokemon-white/</link>
+					<comments>https://anhvurain.github.io/mywordpress/sản%20phẩm/pokemon-white/#respond</comments>
+		
+		<dc:creator><![CDATA[trananhvu]]></dc:creator>
+		<pubDate>Sat, 25 Sep 2021 03:13:14 +0000</pubDate>
+				<guid isPermaLink="false">https://anhvurain.github.io/mywordpress/?post_type=product&#038;p=95</guid>
+
+					<description><![CDATA[Pokemon White Nhà phát hành : Nintendo Loại game : Nintendo DS]]></description>
+										<content:encoded><![CDATA[<p>Pokemon White</p>
+<p>Nhà phát hành : Nintendo</p>
+<p>Loại game : Nintendo DS</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://anhvurain.github.io/mywordpress/sản%20phẩm/pokemon-white/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Pokemon Black</title>
+		<link>https://anhvurain.github.io/mywordpress/sản%20phẩm/pokemon-black/</link>
+					<comments>https://anhvurain.github.io/mywordpress/sản%20phẩm/pokemon-black/#respond</comments>
+		
+		<dc:creator><![CDATA[trananhvu]]></dc:creator>
+		<pubDate>Sat, 25 Sep 2021 03:10:08 +0000</pubDate>
+				<guid isPermaLink="false">https://anhvurain.github.io/mywordpress/?post_type=product&#038;p=94</guid>
+
+					<description><![CDATA[Là sản phẩm của dòng game Pokemon Black &#38; White]]></description>
+										<content:encoded><![CDATA[<p><strong>Pokemon Black </strong></p>
+<p>Nhà phát hành : Nintendo</p>
+<p>Loại game : Nintendo DS</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://anhvurain.github.io/mywordpress/sản%20phẩm/pokemon-black/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Pikachu Rock Star &#8211; My WordPress</title>
+	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/pikachu-rock-star/feed/" rel="self" type="application/rss+xml" />
+	<link>https://anhvurain.github.io/mywordpress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Sat, 25 Sep 2021 05:29:31 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Pikachu Rock Star Cosplay Costume</title>
+		<link>https://anhvurain.github.io/mywordpress/sản%20phẩm/pikachu-rock-star-cosplay-costume/</link>
+					<comments>https://anhvurain.github.io/mywordpress/sản%20phẩm/pikachu-rock-star-cosplay-costume/#respond</comments>
+		
+		<dc:creator><![CDATA[trananhvu]]></dc:creator>
+		<pubDate>Sat, 25 Sep 2021 05:29:30 +0000</pubDate>
+				<guid isPermaLink="false">https://anhvurain.github.io/mywordpress/?post_type=product&#038;p=120</guid>
+
+					<description><![CDATA[Pikachu Rock Star Cosplay Costume Nhà sản xuất : Nintendo Center]]></description>
+										<content:encoded><![CDATA[<p><strong>Pikachu Rock Star Cosplay Costume</strong></p>
+<p>Nhà sản xuất : Nintendo Center</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://anhvurain.github.io/mywordpress/sản%20phẩm/pikachu-rock-star-cosplay-costume/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

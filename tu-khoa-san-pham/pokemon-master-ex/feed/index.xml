@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Pokemon Master Ex &#8211; My WordPress</title>
+	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/pokemon-master-ex/feed/" rel="self" type="application/rss+xml" />
+	<link>https://anhvurain.github.io/mywordpress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Sun, 26 Sep 2021 02:43:06 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Pokemon Master Ex</title>
+		<link>https://anhvurain.github.io/mywordpress/sản%20phẩm/pokemon-master-ex/</link>
+					<comments>https://anhvurain.github.io/mywordpress/sản%20phẩm/pokemon-master-ex/#respond</comments>
+		
+		<dc:creator><![CDATA[trananhvu]]></dc:creator>
+		<pubDate>Sun, 26 Sep 2021 02:43:05 +0000</pubDate>
+				<guid isPermaLink="false">https://anhvurain.github.io/mywordpress/?post_type=product&#038;p=133</guid>
+
+					<description><![CDATA[Phiên bản được tải miễn phí trên các ứng dụng điện thoại.]]></description>
+										<content:encoded><![CDATA[<p>Pokemon Master Ex</p>
+<p>Nhà sản xuất : Nintendo</p>
+<p>Loại game : Mobile</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://anhvurain.github.io/mywordpress/sản%20phẩm/pokemon-master-ex/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

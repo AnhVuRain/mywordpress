@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Combo &#8211; My WordPress</title>
+	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/combo/feed/" rel="self" type="application/rss+xml" />
+	<link>https://anhvurain.github.io/mywordpress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Sat, 25 Sep 2021 04:51:42 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Combo Pokemon Sword &#038; Shield Package</title>
+		<link>https://anhvurain.github.io/mywordpress/sản%20phẩm/combo-pokemon-sword-shield-package/</link>
+					<comments>https://anhvurain.github.io/mywordpress/sản%20phẩm/combo-pokemon-sword-shield-package/#respond</comments>
+		
+		<dc:creator><![CDATA[trananhvu]]></dc:creator>
+		<pubDate>Sat, 25 Sep 2021 04:51:42 +0000</pubDate>
+				<guid isPermaLink="false">https://anhvurain.github.io/mywordpress/?post_type=product&#038;p=111</guid>
+
+					<description><![CDATA[Combo Pokemon Sword &#38; Shield Package Nhà phát hành : Nintendo Loại game : Nintendo Switch Bao gồm : Pokemon Sword &#38; Pokemon Shield]]></description>
+										<content:encoded><![CDATA[<p><strong>Combo Pokemon Sword &amp; Shield Package</strong></p>
+<p>Nhà phát hành : Nintendo</p>
+<p>Loại game : Nintendo Switch</p>
+<p>Bao gồm : Pokemon Sword &amp; Pokemon Shield</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://anhvurain.github.io/mywordpress/sản%20phẩm/combo-pokemon-sword-shield-package/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
