@@ -11,11 +11,11 @@
 	>
 
 <channel>
-	<title>Pokemon_Games &#8211; My WordPress</title>
+	<title>Pokemon_Games &#8211; HomePage</title>
 	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/pokemon/pokemon_games/feed/" rel="self" type="application/rss+xml" />
 	<link>https://anhvurain.github.io/mywordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Sun, 26 Sep 2021 02:43:06 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 16 Oct 2021 01:27:15 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>

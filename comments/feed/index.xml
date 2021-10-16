@@ -10,7 +10,7 @@
 	>
 <channel>
 	<title>
-	Bình luận cho My WordPress	</title>
+	Bình luận cho HomePage	</title>
 	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://anhvurain.github.io/mywordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>

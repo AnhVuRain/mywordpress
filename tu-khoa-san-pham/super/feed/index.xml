@@ -11,11 +11,11 @@
 	>
 
 <channel>
-	<title>SUPER &#8211; My WordPress</title>
+	<title>SUPER &#8211; HomePage</title>
 	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/super/feed/" rel="self" type="application/rss+xml" />
 	<link>https://anhvurain.github.io/mywordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Sat, 25 Sep 2021 04:44:12 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 13 Oct 2021 00:35:53 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>

@@ -11,11 +11,11 @@
 	>
 
 <channel>
-	<title>Combo S&amp;S &#8211; My WordPress</title>
+	<title>Combo S&amp;S &#8211; HomePage</title>
 	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/combo-ss/feed/" rel="self" type="application/rss+xml" />
 	<link>https://anhvurain.github.io/mywordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Sat, 25 Sep 2021 04:51:42 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 16 Oct 2021 01:27:15 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>

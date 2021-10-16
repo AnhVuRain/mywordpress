@@ -11,7 +11,7 @@
 	>
 
 <channel>
-	<title>Card &#8211; My WordPress</title>
+	<title>Card &#8211; HomePage</title>
 	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/card/feed/" rel="self" type="application/rss+xml" />
 	<link>https://anhvurain.github.io/mywordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>

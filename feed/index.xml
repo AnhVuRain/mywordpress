@@ -11,7 +11,7 @@
 	>
 
 <channel>
-	<title>My WordPress</title>
+	<title>HomePage</title>
 	<atom:link href="http://localhost/myproject/wordpress/feed/" rel="self" type="application/rss+xml" />
 	<link>https://anhvurain.github.io/mywordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>

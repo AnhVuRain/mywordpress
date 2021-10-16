@@ -11,7 +11,7 @@
 	>
 
 <channel>
-	<title>Chưa phân loại &#8211; My WordPress</title>
+	<title>Chưa phân loại &#8211; HomePage</title>
 	<atom:link href="http://localhost/myproject/wordpress/category/khong-phan-loai/feed/" rel="self" type="application/rss+xml" />
 	<link>https://anhvurain.github.io/mywordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
