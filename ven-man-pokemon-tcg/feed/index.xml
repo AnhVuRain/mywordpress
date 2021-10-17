@@ -10,9 +10,9 @@
 	>
 <channel>
 	<title>
-	Bình luận cho HomePage	</title>
-	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://anhvurain.github.io/mywordpress</link>
+	Các phản hồi luận về: 3+ VÉN MÀN POKÉMON TCG: SUN &#038; MOON &#8211; FORBIDDEN LIGHT	</title>
+	<atom:link href="http://localhost/myproject/wordpress/ven-man-pokemon-tcg/feed/" rel="self" type="application/rss+xml" />
+	<link>https://anhvurain.github.io/mywordpress/ven-man-pokemon-tcg/</link>
 	<description>Một trang web mới sử dụng WordPress</description>
 	<lastBuildDate>Sun, 17 Oct 2021 03:33:16 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -22,7 +22,7 @@
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
 		<title>
-		Phản hồi cho 3+ VÉN MÀN POKÉMON TCG: SUN &#038; MOON &#8211; FORBIDDEN LIGHT bởi Trần Anh Vũ		</title>
+		Bởi: Trần Anh Vũ		</title>
 		<link>https://anhvurain.github.io/mywordpress/ven-man-pokemon-tcg/#comment-2</link>
 
 		<dc:creator><![CDATA[Trần Anh Vũ]]></dc:creator>
